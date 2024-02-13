@@ -28,3 +28,8 @@
 *.exe
 *.out
 *.app
+
+# VS Solution specific
+/.vs
+/D3DVolumeRaycaster/x64
+/x64
